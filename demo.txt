@@ -1,2 +1,2 @@
-this is a practice text file for the git practice
+this is a practice text file for the git practice.
 this is the changes made in the local machine to push
